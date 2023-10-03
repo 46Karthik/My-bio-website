@@ -206,7 +206,7 @@ setviewmore(true)
                   Year 2016 - Year 2019
                 </span> */}
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                This combination of skills is highly valuable in the tech industry, and you're well-equipped to undertake a variety of web development projects, both on the client-side and server-side. You could consider building full-stack web applications, diving into more advanced React patterns and technologies, exploring different database systems, and contributing to open-source projects to further enhance your skills and gain practical experience.
+                As a graduate student, I have developed a diverse and valuable skill set. I possess proficiency in various web development technologies, including HTML, CSS, JavaScript, and React JS, which enables me to excel on the front-end of web development. Additionally, I have strong backend skills, encompassing Python, Flask, Django, Node.js, API development, and MongoDB. My experience extends to database management using MySQL, making me well-versed in the complete web development stack. Furthermore, my problem-solving abilities, rooted in a solid understanding of data structures and algorithms, demonstrate a robust foundation in computer science fundamentals. This combination of skills positions me as a versatile developer capable of tackling a wide range of web development projects, both on the client-side and server-side.
                 </p>
               </div>
             </div>

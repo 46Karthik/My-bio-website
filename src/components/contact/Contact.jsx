@@ -117,7 +117,7 @@ const Contact = () => {
       setSelectedVideo(videoSources[randomIndex]);
       localStorage["video"]=videoSources[randomIndex]
     }, []);
-console.log(selectedVideo)
+// console.log(selectedVideo)
 
 
 //mail
@@ -152,7 +152,7 @@ useEffect(() => {
         massgae:message,
         // type: 'Standard',
       }
-      const service_id = "service_wwo78fd";
+      const service_id = "service_wz832fd";
       const template_id = "template_suctq7k";
       const user_id = "uyglwKo2T8RHaK1jx";
       emailjs.send(
@@ -163,8 +163,9 @@ useEffect(() => {
       )
         .then(
           (result) => {
-            // console.log(result.text);
+            console.log(result.text);
             // alert(result,"send")
+            console.log(data,"iiiiiiiiiiiii")
             toast.success('Email sent successfully')
 
             setTimeout(() => {
@@ -190,7 +191,7 @@ setShow(false)
 
 }
 },[show]);
- console.log(localStorage.video,"iiiiiiiiiiiii")
+
 
   return (
     <div id="contact" className="container m-auto mt-16">
